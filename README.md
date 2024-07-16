@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abiya Makruf</h1>
-<h3 align="center">I am passionate about my work, highly organized, and a hard worker person</h3>
+<h3 align="center">I am passionate about my work, highly organized, and a hard worker person. | Studying at Telkom University majoring in informatics | Backend | Cloud | Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiyamakruf&label=Profile%20views&color=0e75b6&style=flat" alt="abiyamakruf" /> </p>
 
