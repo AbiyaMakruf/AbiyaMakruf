@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aabbiiyyaa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1AsgbkMFm_-EifihmmJazJzETfLj44xE0](https://drive.google.com/uc?export=download&id=1AsgbkMFm_-EifihmmJazJzETfLj44xE0)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/abiyamakruf/)
 
 - ⚡ Fun fact **I hate spicy food 💔**
 
