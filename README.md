@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at [Telkom University](https://telkomuniversity.ac.id/en/)
 
-- 🌱 I’m currently learning **Python, C++, HTML, CSS, JS, MySQL, GO**
+- 🌱 I’m currently learning **Data Scientist, Machine Learning, Backend, DevOps, Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://abiyamf.the-eventhorizon.com/](https://abiyamf.the-eventhorizon.com/)
 
