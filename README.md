@@ -16,7 +16,7 @@
 - 🎓 Informatics student at **[Telkom University](https://telkomuniversity.ac.id/en/)**  
 - 🌱 Currently exploring **Machine Learning, Backend Development, Cloud Computing, and DevOps**  
 - 📸 Research interest in **Computer Vision (Image Classification, Object Detection, Segmentation)**  
-- 👨‍💻 Portfolio & projects: [abiyamf.the-eventhorizon.com](https://abiyamf.the-eventhorizon.com/)  
+- 👨‍💻 Portfolio & projects: [https://portofolio.abiyamf.my.id/](https://portofolio.abiyamf.my.id/)  
 - 📫 Reach me at **aabbiiyyaa@gmail.com**  
 - 📄 Learn more: [LinkedIn](https://www.linkedin.com/in/abiyamakruf/)  
 - ⚡ Fun fact: *I hate spicy food 💔*  
