@@ -5,6 +5,7 @@
   <a href="https://github.com/abiyamakruf">
     <img src="https://komarev.com/ghpvc/?username=abiyamakruf&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
+  <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=abiyamakruf&theme=gruvbox&row=1&column=6" alt="trophies"/>
   </a>
